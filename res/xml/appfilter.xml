@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <!-- NON MODIFICARE ASSOLUTAMENTE, CI PENSO IO !!! -->
+
+    <!--   serve per dare una forma uniforme,
+           ossia le app non personalizzate
+           avranno una specie di cornice che le fa a cerchio nel nostro caso
+    <iconback img1="iconback" />
+    <iconmask img1="iconmask" />
+    <iconupon img1="iconupon" />
+    <scale factor="1.1" /> -->
+
+    <!-- Browser -->
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser_browseractivity" />
+    <item component="ComponentInfo{com.google.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser_browseractivity" />
+
+    <!-- Calc -->
+    <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="calcolatrice" />
+
+    <!-- Mmms/hangout -->
+    <itme component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="hangout"/>
+</resources>

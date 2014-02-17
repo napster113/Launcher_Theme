@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- devi mettere i nome delle icone -->
+    <string-array name="icon_pack" translatable="false">
+        <item>com_android_browser_browseractivity</item>
+        <item>calcolatrice</item>
+        <item>hangout</item>
+        <item>fotocamera</item>
+        <item>gmail</item>
+        <item>google</item>
+        <item>google_plus</item>
+        <item>impostazioni</item>
+        <item>impostazioni_google</item>
+        <item>mappe</item>
+        <item>play_store</item>
+        <item>youtube</item>
+    </string-array>
+
+</resources>

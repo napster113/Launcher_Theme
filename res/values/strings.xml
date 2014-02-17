@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- inventati un nome per il tema a sostituiscilo in app_name e theme_title -->
+    <string name="app_name">ApexTeme</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!-- Basic theme information -->
+    <string name="theme_title">TB-iCon Sample</string>
+    <string name="developer_name">Thomas Maneggia</string>
+    <!-- This (optional) link will appear at the end of the theme description -->
+    <string name="developer_link">www.gnexushd.com</string>
+    <string name="theme_description">This is a theme for Apex.\n\nThis theme is developed by GnexsHD Team, the team leader for this awesome theme is Thomas Maneggia.\n\nEmail: tm4768@gmail.com</string>
+
+    <!-- Theme settings -->
+    <bool name="config_iconpack">true</bool>
+    <bool name="config_apexskin">true</bool>
+
+    <!-- The feature graphic will appear above the theme description -->
+    <string name="theme_feature">feature</string>
+
+    <!-- Each theme may have up to 5 preview images -->
+    <string name="theme_preview1">preview1</string>
+    <string name="theme_preview2">preview2</string>
+</resources>
