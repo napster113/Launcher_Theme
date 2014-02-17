@@ -28,4 +28,4 @@ limitations under the License.
  nella cartella xml trovi:
  - appfilter: serve a modifcare automaticamente l'icona, non modifcare
 
- <p><strong>by Ivan Botty</p><a style="margin-left:100px">2014©GnexusHD</a></p>
+ <p><strong>by Ivan Botty</strong><a style="margin-left:100px">2014©GnexusHD</a></p>
